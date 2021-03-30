@@ -91,8 +91,8 @@ async def hmm(client,message):
     message.continue_propagation()
   if chat_id in en_chats:
     test = msg
-    test = test.replace('daisy', 'Jessica')
-    test = test.replace('Daisy', 'Jessica')
+    test = test.replace('Jarvis', 'Jessica')
+    test = test.replace('Jarvis', 'Jessica')
     r = ('\n    \"consent\": true,\n    \"ip\": \"::1\",\n    \"question\": \"{}\"\n').format(test)
     k = f"({r})"
     new_string = k.replace("(", "{")
@@ -109,12 +109,12 @@ async def hmm(client,message):
     lodu = response.json()
     result = (lodu['message']['text'])
     pro = result
-    pro = pro.replace('Thergiakis Eftichios','Inuka Asith')
-    pro = pro.replace('Jessica','Daisy')
+    pro = pro.replace('Thergiakis Eftichios','Indrajeeth')
+    pro = pro.replace('Jessica','Jarvis')
     if "Out of all ninja turtle" in result:
      pro = "Sorry! looks I missed that. I'm at your service ask anthing sir?"
     if "ann" in result:
-     pro = "My name is Daisy"
+     pro = "My name is Jarvis"
     try:
       await daisyx.send_chat_action(message.chat.id, "typing")
       await message.reply_text(pro)
@@ -177,12 +177,12 @@ async def hmm(client,message):
     lodu = response.json()
     result = (lodu['message']['text'])
     pro = result
-    pro = pro.replace('Thergiakis Eftichios','Inuka Asith')
-    pro = pro.replace('Jessica','Daisy')
+    pro = pro.replace('Thergiakis Eftichios','Indrajeeth')
+    pro = pro.replace('Jessica','Jarvis')
     if "Out of all ninja turtle" in result:
      pro = "Sorry! looks I missed that. I'm at your service ask anthing sir?"
     if "ann" in result:
-     pro = "My name is Daisy"
+     pro = "My name is Jarvis"
     if not "en" in lan and not lan == "":
       pro = translator.translate(pro, lang_tgt=lan[0])
     try:
@@ -235,8 +235,8 @@ async def inuka(client,message):
 # Kang with the credits bitches @InukaASiTH
 
 
-  test = test.replace('daisy', 'Jessica')
-  test = test.replace('Daisy', 'Jessica')
+  test = test.replace('Jarvis', 'Jessica')
+  test = test.replace('Jarvis', 'Jessica')
   r = ('\n    \"consent\": true,\n    \"ip\": \"::1\",\n    \"question\": \"{}\"\n').format(test)
   k = f"({r})"
   new_string = k.replace("(", "{")
