@@ -1,8 +1,9 @@
+# DARK-JARVIS
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/TeamDaisyX/DaisyX-v2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
-<h1 align="center"><b> DaisyX 2.0  </b></h1>
+<h1 align="center"><b> DARK JARVIS  </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align="center">
     <a href="https://github.com/TeamDaisyX/daisyx-v2.0/commits/main"><img src="https://img.shields.io/github/last-commit/TeamDaisyX/daisyx-v2.0/main?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
@@ -14,12 +15,13 @@
 </p>
 
 ### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
-## https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
+## Avaiilable on Telegram as [@darkjarviprobot](https://t.me/darkjarvisprobot)
 
-[Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkking007-bit/DARK-JARVIS.git)
+
+<img src="https://telegra.ph/file/9e4d458a7a1ae7b1f1dc7.jpg">
+
 ## Credits
 
  - [Hitsuki](https://github.com/HitsukiNetwork/Hitsukix)
@@ -35,10 +37,10 @@ This repo was just revamped to suit an Anime-centric & comedy loving community. 
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Jarvis support](http://t.me/jarvisupport) or simply submit a pull request on the readme.
+jarvisjarvispp
 
-## Daisy X the telegram Bot Project
-DaisyX-v2.0 (Base AioGram)
+
 
 
 ## Special Credits
@@ -49,10 +51,10 @@ DaisyX-v2.0 (Base AioGram)
 - [Inuka Asith](https://github.com/inukaasith) - A Developer of the project
 - [annihilatorrrr](https://github.com/annihilatorrrr) - A Co-Developer of Project
 - [@sithum batrow](https://github.com/sbatrow) - A Developer of Project
-- @tamilvip007 - Helper
+
 - @charindith - Helper
 - @mubashirrehman - Helper
 - For you..
 
 And as always thanks to AioGram devs, Dan for pyrogram, lonami for telethon and Durov for telegram
-Special thanks to you for using bot
+Special thanks to you for using bot.
