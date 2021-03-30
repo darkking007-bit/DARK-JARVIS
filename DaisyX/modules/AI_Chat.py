@@ -51,7 +51,7 @@ async def hmm(_, message):
                 en_chats.remove(chat_id)
             daisy_chats.append(message.chat.id)
             text = "Chatbot Enabled Reply To Any Message" \
-                   + "Of Daisy To Get A Reply"
+                   + "Of Jarvis to Get A Reply"
             await message.reply_text(text)
             message.continue_propagation()
         await message.reply_text("ChatBot Is Already Enabled.")
