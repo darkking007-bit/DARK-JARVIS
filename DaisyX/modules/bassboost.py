@@ -87,7 +87,7 @@ async def __(event):
               event.chat_id,
               m,
               voice_note=True,
-              caption="Bass Boosted, \nDone By @harvisupport",
+              caption="Bass Boosted, \nDone By @jarvisupport",
           )
           
           os.remove(m)
