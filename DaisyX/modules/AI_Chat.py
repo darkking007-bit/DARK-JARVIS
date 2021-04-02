@@ -159,8 +159,8 @@ async def hmm(client,message):
 # Kang with the credits bitches @InukaASiTH
 
 
-    test = test.replace('daisy', 'Jessica')
-    test = test.replace('Daisy', 'Jessica')
+    test = test.replace('jarvis', 'Jessica')
+    test = test.replace('Jarvis', 'Jessica')
     r = ('\n    \"consent\": true,\n    \"ip\": \"::1\",\n    \"question\": \"{}\"\n').format(test)
     k = f"({r})"
     new_string = k.replace("(", "{")
@@ -253,12 +253,12 @@ async def inuka(client,message):
   lodu = response.json()
   result = (lodu['message']['text'])
   pro = result
-  pro = pro.replace('Thergiakis Eftichios','Inuka Asith')
-  pro = pro.replace('Jessica','Daisy')
+  pro = pro.replace('Thergiakis Eftichios','Indrajeeth')
+  pro = pro.replace('Jessica','Jarvis')
   if "Out of all ninja turtle" in result:
    pro = "Sorry! looks I missed that. I'm at your service ask anthing sir?"
   if "ann" in result:
-   pro = "My name is Daisy"
+   pro = "My name is Jarvis"
   if not "en" in lan and not lan == "":
     pro = translator.translate(pro, lang_tgt=lan[0])
   try:
@@ -311,8 +311,8 @@ async def inuka(client,message):
 # Kang with the credits bitches @InukaASiTH
 
 
-  test = test.replace('daisy', 'Jessica')
-  test = test.replace('Daisy', 'Jessica')
+  test = test.replace('jarvis', 'Jessica')
+  test = test.replace('Jarvis', 'Jessica')
   r = ('\n    \"consent\": true,\n    \"ip\": \"::1\",\n    \"question\": \"{}\"\n').format(test)
   k = f"({r})"
   new_string = k.replace("(", "{")
@@ -329,12 +329,12 @@ async def inuka(client,message):
   lodu = response.json()
   result = (lodu['message']['text'])
   pro = result
-  pro = pro.replace('Thergiakis Eftichios','Inuka Asith')
-  pro = pro.replace('Jessica','Daisy')
+  pro = pro.replace('Thergiakis Eftichios','Indrajeeth')
+  pro = pro.replace('Jessica','Jarvis')
   if "Out of all ninja turtle" in result:
    pro = "Sorry! looks I missed that. I'm at your service ask anthing sir?"
   if "ann" in result:
-   pro = "My name is Daisy"
+   pro = "My name is Jarvis"
   if not "en" in lan and not lan == "":
     pro = translator.translate(pro, lang_tgt=lan[0])
   try:
