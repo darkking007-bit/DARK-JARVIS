@@ -58,7 +58,7 @@ async def _(car):
     elif stdout:
         evaluation = stdout
     else:
-        evaluation = "Sorry Daisy can't find result for the given equation"
+        evaluation = "Sorry Jarvis can't find result for the given equation"
     final_output = "**EQUATION**: `{}` \n\n **SOLUTION**: \n`{}` \n".format(
         cmd, evaluation
     )
