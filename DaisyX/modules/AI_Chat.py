@@ -267,7 +267,7 @@ async def inuka(client,message):
   except CFError as e:
          print(e)
 
-@daisyx.on_message(filters.regex("Daisy|daisy|DaisyX|daisyx|Daisyx") & ~filters.bot &
+@daisyx.on_message(filters.regex("Jarvis|jarvis|Darkjarvis|darkjarvis") & ~filters.bot &
         ~filters.via_bot & ~filters.forwarded & ~filters.reply & ~filters.channel)
 async def inuka(client,message):
   msg = message.text
